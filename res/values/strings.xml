@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">桌面显示</string>
+	<string name="ok">确定</string>
+	<string name="cancle">取消</string>
+	<string name="boxhint">请输入要在桌面显示的文字</string>
+	<string name="boxtitle">显示的文字</string>
+	<string name="widgetdefaulttext">请设置要显示的文字</string>
+</resources>
